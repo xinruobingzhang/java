@@ -1,3 +1,7 @@
 print Creating a new branch is quick
-print "the second branch"
-print "the master modify"
+print "the third"
+<<<<<<< HEAD
+print "the third branch"
+=======
+print "the third branch"
+>>>>>>> feat
